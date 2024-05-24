@@ -1,5 +1,5 @@
 # RecreaNET
-RecreaNET es una plataforma web diseñada para mejorar la gestión de información en asociaciones juveniles, colonias de vacaciones para niños, líderes de grupos infantiles y actividades recreativas. Esta plataforma automatiza la gestión de información desde la certificación de líderes hasta la coordinación de actividades y el seguimiento de la participación de los clientes más jóvenes.
+RecreaNET es una plataforma web diseñada por las estudiantes Isabella Rivera y Valentina Vargas para mejorar la gestión de información en asociaciones juveniles, colonias de vacaciones para niños, líderes de grupos infantiles y actividades recreativas. Esta plataforma automatiza la gestión de información desde la certificación de líderes hasta la coordinación de actividades y el seguimiento de la participación de los clientes más jóvenes.
 
 Características
 
