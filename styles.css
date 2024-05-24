@@ -1,0 +1,159 @@
+body {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/02/Siblings_brother_and_sister.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content-container {
+    background: rgba(255, 255, 255, 0); /* Fondo blanco semitransparente para mejorar la legibilidad */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.menu-container {
+    
+    height: 20%;
+    width: 49%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 15px;
+    text-align: left;
+    margin: 20px;
+}
+
+.menu {
+    margin-top: 20px;
+    background: rgba(234, 235, 255, 0.179);
+    border-radius: 15px;
+    padding: 15px;
+    width: 50%;
+    margin-right: -20px;
+}
+
+/* .menu {
+    background: rgba(234, 235, 255, 0.179);
+    padding: 15px;
+    border-radius: 15px;
+    width: 50%;
+    margin-left: 200px; 
+    top: 20px;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+.free-text-container {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+    color: #0d0d0d;
+    border-radius: 15px;
+    padding: 15px;
+    background: rgba(234, 235, 255, 0.801);
+}
+
+/* .free-text-container {
+    margin-left: 20px;
+    font-size: 18px;
+    color: #0d0d0d;
+    width: 100%;
+    background: rgba(234, 235, 255, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+} */
+
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 15px;
+    top: 200px;
+    left: 2px;
+}
+
+.title-container {
+    font-size: 32px;
+    color: #0d013c;
+    margin-bottom: 15px;
+    top: 200px;
+    left: 2px;
+}
+
+.menu h2 {
+    margin-bottom: 10px; 
+    font-size: 30px; 
+    color: #010c1b;
+    top: 20px;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    top: 20px;
+}
+
+.menu li {
+    margin-bottom: 10px;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+    background-color: #b4f4ff;
+    text-decoration: none;
+    color: #000564;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.menu li a:hover {
+    background-color: #250172;
+    color: #ffffff;
+}
+
+.move-right {
+    margin-right: 20px; /* Ajusta este valor según tus necesidades */
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #000564;
+    background-color: #cce8fb;
+    padding: 8px 15px; 
+    border-radius: 5px;
+    font-size: 18px; 
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.menu ul li a:hover {
+    background-color: #250172;
+    color: #ffffff;
+}
+
+.menu-izq {
+    height: 100%;
+    width: 49%;
+}
+
+.menu-der {
+    height: 100%;
+    width: 49%;
+    display:flex;
+}
+
+.modal-body table {
+    background-color: #ffffff; 
+    font-size: 18px; 
+}
+
+.modal-body table th,
+.modal-body table td {
+    text-align: center; 
+}
