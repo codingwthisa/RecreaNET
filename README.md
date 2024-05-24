@@ -25,7 +25,7 @@ Características
 - JavaScript (Bootstrap JS)
 
 # Configuración y Uso
-Requisitos
+**Requisitos**
 - Servidor web con soporte para PHP y MySQL.
 - Clonar este repositorio en el directorio raíz del servidor web.
 - Configuración de la Base de Datos
